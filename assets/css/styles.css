@@ -1,0 +1,37 @@
+.fruits{
+    border: #000dff 2px solid;
+    padding: 20px;
+    margin: 20px;
+    background-color: darkolivegreen;
+    text-align: center;
+    color: beige;
+}
+
+/*classes are case sensitive*/
+.cars{
+    border: darkorange 2px solid;
+    padding: 20px;
+    margin: 20px;
+    background-color: #2f666b;
+    text-align: end;
+    color: #f50505;
+}
+.FRUITS{
+    border: #d27a10 2px solid;
+    padding: 10px;
+    margin: 15px;
+    background-color: #05d7ea;
+    text-align: center;
+    color: magenta;
+}
+img{
+    width: 20%;
+}
+#school{
+    border: #d27a10 2px solid;
+    padding: 10px;
+    margin: 15px;
+    background-color: #05d7ea;
+    text-align: center;
+    color: #3f6060;
+}

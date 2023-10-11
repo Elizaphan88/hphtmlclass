@@ -1,0 +1,26 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+th,td{
+    border: 2px solid #dc630c;
+    padding: 20px;
+    margin: 10px;
+}
+thead{
+    font-family: Arial;
+    font-size: 20px;
+    color: red;
+}
+body{
+    /*background-image: url("assets/images/car1.jpg");*/
+    /*background-repeat: no-repeat*/
+    background-color: #1fb2e3;
+}
+h2{
+    text-align: center;
+    color: fuchsia;
+}
+img{
+
+}
